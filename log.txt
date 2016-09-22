@@ -1,0 +1,352 @@
+commit a5334fc3f5091e966aa9ed644928bd1aa6afe907
+Merge: 3b4eff9 2b8f4c3
+Author: Alex Williams <axw6803@rit.edu>
+Date:   Sun Apr 10 16:42:26 2016 -0400
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 3b4eff90bc2f74ebd88c1cbaac9508affb0f225c
+Author: Alex Williams <axw6803@rit.edu>
+Date:   Sun Apr 10 16:42:05 2016 -0400
+
+    Added more docstrings for default toString, helpMessage, and command
+
+commit 2b8f4c39cb45d3c651a290a93af9e4d6cf74569b
+Author: jrm3929 <jrm3929@g.rit.edu>
+Date:   Sun Apr 10 16:41:22 2016 -0400
+
+    Added coordinate out of bound check
+
+commit 705fea4ea59904b9bfae1c64291249956489a93e
+Author: jrm3929 <jrm3929@g.rit.edu>
+Date:   Sun Apr 10 16:36:59 2016 -0400
+
+    Added more doc strings
+
+commit ac951ec4045d6fc1af5d4b59566b9d4c3fe3b1bb
+Merge: 538116e 91a2ffd
+Author: Alex Williams <axw6803@rit.edu>
+Date:   Sun Apr 10 16:30:06 2016 -0400
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 538116e6c1d684814eb0e2ea152a6b7407f0f99f
+Author: Alex Williams <axw6803@rit.edu>
+Date:   Sun Apr 10 16:29:41 2016 -0400
+
+    added docstrings for addLaser and removeLaser
+
+commit 91a2ffd16ed6d6d47da31e9650191c556669ef7c
+Author: jrm3929 <jrm3929@g.rit.edu>
+Date:   Sun Apr 10 16:28:14 2016 -0400
+
+    Added doc strings
+
+commit 72030c0a7379d5c5218540c089d8f36d5771e607
+Author: Alex Williams <axw6803@rit.edu>
+Date:   Sun Apr 10 16:21:42 2016 -0400
+
+    Removed removeBeams()
+
+commit fb7f5fc4efdb09b6114b7f75481ad3e505cd2e48
+Author: Alex Williams <axw6803@rit.edu>
+Date:   Sun Apr 10 16:20:16 2016 -0400
+
+    Added in display on startup
+
+commit 568f1b7b357db04847ba7da316840245c65c4957
+Merge: 4e02298 a15fdcf
+Author: jrm3929 <jrm3929@g.rit.edu>
+Date:   Sun Apr 10 16:15:28 2016 -0400
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 4e0229885b99f9611e7093fed10af084c50ffd17
+Author: jrm3929 <jrm3929@g.rit.edu>
+Date:   Sun Apr 10 16:15:04 2016 -0400
+
+    Changed command method
+
+commit a15fdcfbac91aca88aa93d78d0bf7a35096bfdb9
+Merge: 41cd3ff 1a3c788
+Author: Alex Williams <axw6803@rit.edu>
+Date:   Sun Apr 10 15:58:37 2016 -0400
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 41cd3ffcb6940c2ff121700b3b2883cc05ca3a21
+Author: Alex Williams <axw6803@rit.edu>
+Date:   Sun Apr 10 15:58:12 2016 -0400
+
+    Switched rownum and colnum in certain cases. Fixes dimensions when constructing Safe.
+
+commit 1a3c788f3aa54b508982d8a715251b5f7a5e2bba
+Author: jrm3929 <jrm3929@g.rit.edu>
+Date:   Sun Apr 10 15:57:12 2016 -0400
+
+    Cleaned laser neighbor method a bit
+
+commit 5b8fe687900f89d69fd136c8065dc83b13455603
+Merge: e96be96 56e778a
+Author: jrm3929 <jrm3929@g.rit.edu>
+Date:   Sat Apr 9 15:33:51 2016 -0400
+
+    Merge remote-tracking branch 'origin/master'
+
+commit e96be963d6e6823e1d92653c95a902c9f2306d9b
+Author: jrm3929 <jrm3929@g.rit.edu>
+Date:   Sat Apr 9 15:33:28 2016 -0400
+
+    Altered valid
+
+commit 56e778a843af33f7f2d8ba5bd549100bc4effe26
+Author: Alex Williams <axw6803@rit.edu>
+Date:   Sat Apr 9 15:33:06 2016 -0400
+
+    Valid works
+
+commit c595cceb26d907f35e6cbb94056626cd0859a354
+Merge: 5a4129a 773b3c6
+Author: Alex Williams <axw6803@rit.edu>
+Date:   Sat Apr 9 15:22:27 2016 -0400
+
+    Merge remote-tracking branch 'origin/master'
+    
+    # Conflicts:
+    #	src/LaserConfig.java
+
+commit 5a4129ac87483b5a13b80920c30d203505af6cd4
+Author: Alex Williams <axw6803@rit.edu>
+Date:   Sat Apr 9 15:21:00 2016 -0400
+
+    Valid
+
+commit 773b3c6f5e151d160befe089f87d07bcb37fc16a
+Author: jrm3929 <jrm3929@g.rit.edu>
+Date:   Sat Apr 9 15:19:17 2016 -0400
+
+    Altered valid
+
+commit 00e5210931575736f41d45380a4fc7b7b4eb8669
+Merge: 0ce1f61 321e665
+Author: Alex Williams <axw6803@rit.edu>
+Date:   Sat Apr 9 15:01:33 2016 -0400
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 0ce1f61413ca2eeef8914b38f28c9a8c6f88aad2
+Author: Alex Williams <axw6803@rit.edu>
+Date:   Sat Apr 9 15:01:12 2016 -0400
+
+    Valid
+
+commit 321e6658fcf18d974eb88df09e689fdd4a88aa4d
+Merge: 01ac191 59e5c05
+Author: jrm3929 <jrm3929@g.rit.edu>
+Date:   Sat Apr 9 15:00:23 2016 -0400
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 01ac1915146e39d1af7855b22e97911d8995d36f
+Author: jrm3929 <jrm3929@g.rit.edu>
+Date:   Sat Apr 9 14:59:44 2016 -0400
+
+    Fixed valid function
+
+commit 59e5c05f164dd117800d168ea1db014f7c5554f6
+Author: Alex Williams <axw6803@rit.edu>
+Date:   Sat Apr 9 14:56:44 2016 -0400
+
+    Add and remove lasers works
+    
+    isValid next
+
+commit f0eec401602323cb5eb75fb5fed628af7e1ca025
+Merge: 80c7c14 79f1a12
+Author: Alex Williams <axw6803@rit.edu>
+Date:   Sat Apr 9 14:45:56 2016 -0400
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 80c7c14a2f209700ac27af64ea69a4d95b4a18d3
+Author: Alex Williams <axw6803@rit.edu>
+Date:   Sat Apr 9 14:45:29 2016 -0400
+
+    changed toString
+
+commit 79f1a12714f2549bcf48ee89a7e9e6551c0d86c0
+Author: jrm3929 <jrm3929@g.rit.edu>
+Date:   Sat Apr 9 14:43:56 2016 -0400
+
+    Finished copy method
+
+commit 5307c5c3eb7e6f3dcdb816a9d8db1817f0f0281f
+Author: Alex Williams <axw6803@rit.edu>
+Date:   Sat Apr 9 14:36:38 2016 -0400
+
+    add beams
+
+commit 05108b4bd24c45a1a25711d879ef9ddc054d8480
+Merge: ee4712f 314f9dc
+Author: Alex Williams <axw6803@rit.edu>
+Date:   Sat Apr 9 14:35:43 2016 -0400
+
+    Merge remote-tracking branch 'origin/master'
+    
+    # Conflicts:
+    #	src/LaserConfig.java
+
+commit ee4712f91c87bff97295b009549aa1954354acc4
+Author: Alex Williams <axw6803@rit.edu>
+Date:   Sat Apr 9 14:32:57 2016 -0400
+
+    add beams
+
+commit 314f9dc4597c179f0609bca607485a1ef7a79e79
+Author: jrm3929 <jrm3929@g.rit.edu>
+Date:   Sat Apr 9 14:31:04 2016 -0400
+
+    Added copy method
+
+commit 7e87029bc0f4674527b32f9f2cdb423ab5c132e1
+Merge: 761eb03 2b6eeb6
+Author: jrm3929 <jrm3929@g.rit.edu>
+Date:   Sat Apr 9 13:58:09 2016 -0400
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 761eb03f1e357662314c689cf5cc2f693135ef10
+Author: jrm3929 <jrm3929@g.rit.edu>
+Date:   Sat Apr 9 13:57:27 2016 -0400
+
+    Fixed laser Neighbor method
+
+commit 2b6eeb672e43184574106bd3f2698b41bd4f54a4
+Merge: edd419e 5bfe501
+Author: Alex Williams <axw6803@rit.edu>
+Date:   Sat Apr 9 13:43:31 2016 -0400
+
+    Merge remote-tracking branch 'origin/master'
+
+commit edd419e8f10e25279755d3225c5f2daf9687d478
+Author: Alex Williams <axw6803@rit.edu>
+Date:   Sat Apr 9 13:43:07 2016 -0400
+
+    reomve lasers in progress
+
+commit 5bfe501662288de94395c348a6cef68fb110c434
+Author: jrm3929 <jrm3929@g.rit.edu>
+Date:   Sat Apr 9 13:42:06 2016 -0400
+
+    Fixed Valid method
+
+commit 7221003f124969aad4245d6686c7c2f44ed2171c
+Merge: ecf3410 f7974eb
+Author: Alex Williams <axw6803@rit.edu>
+Date:   Sat Apr 9 13:26:13 2016 -0400
+
+    Merge remote-tracking branch 'origin/master'
+
+commit ecf3410e4fbc886c57047f998b9ac9136c86f3d6
+Author: Alex Williams <axw6803@rit.edu>
+Date:   Sat Apr 9 13:25:51 2016 -0400
+
+    Main arguments and command method
+
+commit f7974eb282244d188f7805cf05b62a2925df894d
+Author: jrm3929 <jrm3929@g.rit.edu>
+Date:   Sat Apr 9 13:24:45 2016 -0400
+
+    Fixed valid method
+
+commit 69ae7aab53ebee233f4c2d54088a7ff4822d1c20
+Author: Alex Williams <axw6803@rit.edu>
+Date:   Sat Apr 9 12:56:39 2016 -0400
+
+    Main arguments and command method
+
+commit bbfecf725a77d56ab128304e7e76a20321573062
+Author: jrm3929 <jrm3929@g.rit.edu>
+Date:   Fri Apr 8 12:36:54 2016 -0400
+
+    Added getters for rownum and colnum
+
+commit 0e1038346c69478f97fc82db422f2df2461b4c8a
+Author: jrm3929 <jrm3929@g.rit.edu>
+Date:   Fri Apr 8 12:30:58 2016 -0400
+
+    Added some method descriptions.
+
+commit 5a5cea68b8ba91956c18e55885664ac942855221
+Author: jrm3929 <jrm3929@g.rit.edu>
+Date:   Fri Apr 8 12:20:06 2016 -0400
+
+    Adjusted laser neighbor check
+
+commit aefc078f02dd23f39dad8980dd7a29af008f47ad
+Author: Alex Williams <axw6803@rit.edu>
+Date:   Fri Apr 8 11:27:29 2016 -0400
+
+    Upload 2
+    
+    addLasers written
+    help message written
+
+commit d0a86c39f89d377e7fdd2c1d590f66a4b7b7d73a
+Merge: 74fd4ee c843e77
+Author: Alex Williams <axw6803@rit.edu>
+Date:   Fri Apr 8 11:19:36 2016 -0400
+
+    Merge remote-tracking branch 'origin/master'
+    
+    # Conflicts:
+    #	src/LaserConfig.java
+
+commit 74fd4ee274797fd2b2a01901dbdfa40f584d714e
+Author: Alex Williams <axw6803@rit.edu>
+Date:   Fri Apr 8 11:17:54 2016 -0400
+
+    Upload 2
+    
+    addLasers written
+    help message written
+
+commit c843e7700339038e7b9da24e8ffeee8c6410b868
+Author: jrm3929 <jrm3929@g.rit.edu>
+Date:   Fri Apr 8 11:14:41 2016 -0400
+
+    Progress on valid method
+
+commit 717988f93033dc6b58df1f6749433d5fd57678da
+Author: jrm3929 <jrm3929@g.rit.edu>
+Date:   Fri Apr 8 10:51:29 2016 -0400
+
+    commit
+
+commit 05ca4d9a590b01edcc741cb9f733c3d27ea8ac5f
+Author: Alex Williams <axw6803@rit.edu>
+Date:   Wed Apr 6 12:40:20 2016 -0400
+
+    fixed
+
+commit 9a11c9a983b034506eea96bb5584288b22f8e51b
+Merge: 7c237eb 219c6df
+Author: Alex Williams <axw6803@rit.edu>
+Date:   Wed Apr 6 12:17:42 2016 -0400
+
+    Merge branch 'master' of ssh://glados.cs.rit.edu/home/group/s142/p142-04a/GIT/Lasers
+    
+    # Conflicts:
+    #	src/LasersPTUI.java
+
+commit 7c237eb280cf66eb19c5163114dc3e64c687ea05
+Author: Alex Williams <axw6803@rit.edu>
+Date:   Tue Apr 5 16:18:15 2016 -0400
+
+    Initial Revision
+
+commit 219c6dfbda84340b1019d360903e5a23b8a9efbc
+Author: jrm3929 <jrm3929@g.rit.edu>
+Date:   Tue Apr 5 16:12:29 2016 -0400
+
+    Initial Commit
